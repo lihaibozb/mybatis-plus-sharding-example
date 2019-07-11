@@ -1,4 +1,4 @@
-package com.zyxfcfc.mybatisplussharding;
+package com.zyxfcfc.mps;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,13 +1,13 @@
-package com.zyxfcfc.mybatisplussharding;
+package com.zyxfcfc.mps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MybatisPlusShardingApplication {
+public class MPSApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MybatisPlusShardingApplication.class, args);
+		SpringApplication.run(MPSApplication.class, args);
 	}
 
 }
